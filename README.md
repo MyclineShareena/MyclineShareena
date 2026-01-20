@@ -1,11 +1,46 @@
-- 👋 Hi, I’m @MyclineShareena
-- 👀 I’m interested in analyzing the Data
-- 🌱 I’m currently learning Machine learning for Data Science.
-- 💞️ I’m looking to collaborate on Data Science Projects.
-- 📫 How to reach me @ sharirobi.565@gmail.com
-- ⬇️ Connect with me here
+# Mycline Shareena John Peter Kennedy
+**Data Engineer | Data Analyst | AI & Automation**
 
-  [![Mylinkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mycline-shareena-j-9b8128168?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BavQPTDhuREaVAEKjPhKVlQ%3D%3D)
+📍 Boston, MA | 🎓 MS Information Systems – Northeastern University  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sharirobi.565@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mycline-shareena-j-9b8128168)
+
+---
+
+## SUMMARY
+Graduate **Data & AI Engineer** with experience in **Python, SQL, ETL pipelines, ML, NLP, RAG systems, and AWS**. Built scalable **data pipelines, dashboards, and AI automation systems**. Seeking **Internship / Co-op / Early Career** roles.
+
+---
+
+## SKILLS (ATS-Friendly)
+**Languages:** Python, SQL, Java  
+**Data:** ETL, Airflow, Data Validation, Feature Engineering  
+**ML / AI:** Machine Learning, NLP, RAG, LangChain, LangGraph  
+**Cloud:** AWS (EC2, EKS, S3), Docker, CI/CD  
+**BI:** Streamlit, Power BI, Tableau, Excel  
+
+---
+
+## EXPERIENCE
+**Data Analyst – Systems & Automation** | BankBazaar (2023–2024)  
+- Built analytics-ready datasets and automated reports  
+- Drove ~20% operational efficiency improvements  
+
+**Data Analyst Intern – Finance** | SMRC Automotive (2022)  
+- Analyzed procurement & cost data  
+- Enabled ~15% cost reduction  
+
+---
+
+## PROJECTS
+- **Prompt2Mesh** – AI agent system for text-to-3D modeling (LangGraph, AWS)  
+- **Project ORBIT** – Automated ETL + agentic analytics platform  
+- **Financial RAG Pipeline** – Concept extraction using vector search  
+- **Earnings Automation** – AI-driven financial report parsing  
+
+---
+
+⭐ Open to data, AI, and cloud engineering collaborations
 
 <!---
 MyclineShareena/MyclineShareena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
