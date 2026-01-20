@@ -17,18 +17,7 @@ Graduate **Data & AI Engineer** with experience in **Python, SQL, ETL pipelines,
 **Data:** ETL, Airflow, Data Validation, Feature Engineering  
 **ML / AI:** Machine Learning, NLP, RAG, LangChain, LangGraph  
 **Cloud:** AWS (EC2, EKS, S3), Docker, CI/CD  
-**BI:** Streamlit, Power BI, Tableau, Excel  
-
----
-
-## EXPERIENCE
-**Data Analyst – Systems & Automation** | BankBazaar (2023–2024)  
-- Built analytics-ready datasets and automated reports  
-- Drove ~20% operational efficiency improvements  
-
-**Data Analyst Intern – Finance** | SMRC Automotive (2022)  
-- Analyzed procurement & cost data  
-- Enabled ~15% cost reduction  
+**BI:** Streamlit, Power BI, Tableau, Excel 
 
 ---
 
