@@ -12,7 +12,7 @@ Graduate **Data & AI Engineer** with experience in **Python, SQL, ETL pipelines,
 
 ---
 
-## SKILLS (ATS-Friendly)
+## SKILLS
 **Languages:** Python, SQL, Java  
 **Data:** ETL, Airflow, Data Validation, Feature Engineering  
 **ML / AI:** Machine Learning, NLP, RAG, LangChain, LangGraph  
